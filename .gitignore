@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# VSCode
+.metals/
+.vscode/
+.bloop/
+metals.sbt
+
+# Maven
+target/
+
+*.class
+*.log
+
+logs/
+
+.bsp/
